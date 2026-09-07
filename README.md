@@ -1,0 +1,15 @@
+
+Olá, Alex! Tudo bem? Tomei a decisão de enviar esse feedback para você, pois no último projeto em conjunto observei aspectos no seu trabalho que atrapalharam um pouco o grupo.
+Você é um ótimo funcionário e tecnicamente contribuiu muito para o desenvolvimento do aplicativo.
+Porém, ao reescrever um módulo de autenticação de usuário direto na branch principal sem avisar ninguém da equipe nem discutir mudanças você foi totalmente individualista.
+E embora, você tenha ideias excelentes, interromper colegas em algumas das reuniões de sprint não é o melhor jeito de comunica-las. 
+Além disso, você passou por cima do acordo de code review do grupo por achar que atrasaria o processo, mas estava enganado. 
+O clima estava bem tenso, mas apesar de tudo conseguimos entregar, contudo, não tivemos o melhor resultado, já que diversos faltava diversos quesitos,
+como o desalinhamento da equipe, fizeram nosso trabalho ser inferior ao que poderia ter sido.
+Talvez, você não tenha percebido, mas por algumas atitudes suas nossos colegas se sentirão desanimados em compartilhar ideias que poderiam ter aumentado nosso desempenho.
+Ademais, ninguém conseguiu entender seus pulls, resultando no atraso que você estava tentando evitar,
+mas por sua atitude precipitada o processo se tornou mais lento do que seria se o acordo tivesse sido seguido. 
+Alex, não estou criticando seu trabalho, apenas acho que você deveria ampliar sua colaboração quando estiver em um grupo. 
+Entendo, que estávamos em um momento sob pressão, mas se isso interfere nas suas decisões, você deveria tentar aprender como agir em situações assim,
+prezando por um ambiente colaborativo. Enfim, sugiro que de uma próxima vez, busque pedir sugestões aos seus colegas, antes de tomar qualquer decisão, 
+bem como melhorar sua comunicação em relação a saber se todos estão compreendendo o seu trabalho, pois é importante que cada um tenha conhecimento de cada etapa que for concluída.
