@@ -1,5 +1,24 @@
-Olá, Alex! Tudo bem?
-Tomei a decisão de enviar esse feedback para você, pois no último projeto em conjunto observei aspectos no seu trabalho que atrapalharam um pouco o grupo.
-Você é um ótimo funcionário e tecnicamente contribuiu muito para o desenvolvimento do aplicativo. Durante o desenvolvimento do aplicativo, principalmente enquanto estávamos trabalhando no módulo de autenticação e realizando as reuniões de sprint, aconteceram algumas situações que afetaram a dinâmica do grupo. Ao reescrever um módulo de autenticação de usuário direto na branch principal sem avisar ninguém da equipe nem discutir mudanças, você foi totalmente individualista. E, embora você tenha ideias excelentes, interromper colegas em algumas das reuniões de sprint não é o melhor jeito de comunicá-las.
-Além disso, você passou por cima do acordo de code review do grupo por achar que atrasaria o processo, mas estava enganado. O clima estava bem tenso, mas, apesar de tudo, conseguimos entregar. Contudo, não tivemos o melhor resultado, já que diversos quesitos faltaram, como o desalinhamento da equipe, que fez nosso trabalho ser inferior ao que poderia ter sido. Talvez você não tenha percebido, mas, por algumas atitudes suas, nossos colegas se sentiram desanimados em compartilhar ideias que poderiam ter aumentado nosso desempenho. Ademais, ninguém conseguiu entender seus pulls, resultando no atraso que você estava tentando evitar, mas, por sua atitude precipitada, o processo se tornou mais lento do que seria se o acordo tivesse sido seguido. Entendo que estávamos em um momento sob pressão e que isso pode ter influenciado algumas decisões durante o projeto. Alex, não estou criticando seu trabalho, apenas acho que você deveria ampliar sua colaboração quando estiver em um grupo. Se isso interfere nas suas decisões, você deveria tentar aprender como agir em situações assim, prezando por um ambiente colaborativo.
-Enfim, sugiro que, de uma próxima vez, busque pedir sugestões aos seus colegas antes de tomar qualquer decisão, bem como melhorar sua comunicação em relação a saber se todos estão compreendendo o seu trabalho. Isso é importante para que cada um tenha conhecimento de cada etapa que for concluída, evitando desalinhamentos, atrasos e dificuldades na realização do trabalho em equipe.
+Olá, Alex! Tudo bem? Tomei a decisão de enviar esse feedback para você, pois no último projeto em conjunto observei aspectos no seu trabalho que atrapalharam um pouco o grupo. Você é um ótimo funcionário e tecnicamente contribuiu muito para o desenvolvimento do aplicativo.
+
+S — Situação: Durante o desenvolvimento do aplicativo, principalmente enquanto estávamos trabalhando no módulo de autenticação e realizando as reuniões de sprint, aconteceram algumas situações que afetaram a dinâmica do grupo.
+
+C — Comportamento: Ao reescrever um módulo de autenticação de usuário direto na branch principal sem avisar ninguém da equipe nem discutir mudanças, você foi totalmente individualista.
+
+E, embora você tenha ideias excelentes, interromper colegas em algumas das reuniões de sprint não é o melhor jeito de comunicá-las.
+
+Além disso, você passou por cima do acordo de code review do grupo por achar que atrasaria o processo, mas estava enganado.
+
+I — Impacto: O clima estava bem tenso, mas, apesar de tudo, conseguimos entregar. Contudo, não tivemos o melhor resultado, já que diversos quesitos faltaram, como o desalinhamento da equipe, que fez nosso trabalho ser inferior ao que poderia ter sido.
+
+Talvez você não tenha percebido, mas, por algumas atitudes suas, nossos colegas se sentiram desanimados em compartilhar ideias que poderiam ter aumentado nosso desempenho.
+
+Ademais, ninguém conseguiu entender seus pulls, resultando no atraso que você estava tentando evitar, mas, por sua atitude precipitada, o processo se tornou mais lento do que seria se o acordo tivesse sido seguido.
+
+S — Situação: Entendo que estávamos em um momento sob pressão e que isso pode ter influenciado algumas decisões durante o projeto.
+
+C — Comportamento: Alex, não estou criticando seu trabalho, apenas acho que você deveria ampliar sua colaboração quando estiver em um grupo. Se isso interfere nas suas decisões, você deveria tentar aprender como agir em situações assim, prezando por um ambiente colaborativo.
+
+Enfim, sugiro que, de uma próxima vez, busque pedir sugestões aos seus colegas antes de tomar qualquer decisão, bem como melhorar sua comunicação em relação a saber se todos estão compreendendo o seu trabalho.
+
+I — Impacto: Isso é importante para que cada um tenha conhecimento de cada etapa que for concluída, evitando desalinhamentos, atrasos e dificuldades na realização do trabalho em equipe.
+
